@@ -70,14 +70,17 @@ button{
     color: #fff;
     background-color: #000;
 
-}
-input{
-    margin-bottom: 30px;
-    padding: 10px;
-    border-radius: 20px;
-    /* border: none;/ */
-    /* outline: none; */
+
 
 }
-
+h4{
+    font-size: 20px;
+    margin: 15px;
+    font-weight: 500;
+}
+h4 i{
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
 
